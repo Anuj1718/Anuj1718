@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj1718&label=Profile%20views&color=0e75b6&style=flat" alt="anuj1718" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Blockchain**
+- 🌱 I’m currently learning **DSA, Web Development and Blockchain**
 
 - 📫 How to reach me **anujdhole17@gmail.com**
 
