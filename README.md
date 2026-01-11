@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/anujbtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danuj1718" height="30" width="40" /></a>
 <a href="https://instagram.com/an_xjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an_xjj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/buildwiwthanuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danuj0612" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/buildwithanuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danuj0612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
