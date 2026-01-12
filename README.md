@@ -21,6 +21,15 @@ I craft full-stack web apps and care about building things that actually work in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://anujbtw.vercel.app" target="_blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+      alt="portfolio"
+      height="30"
+      width="40"
+    />
+  </a>
   <a href="https://twitter.com/anujbtw" target="_blank">
     <img
       align="center"
