@@ -16,7 +16,7 @@ I craft full-stack web apps and care about building things that actually work in
 - 🎯 I like building things that **look good and don’t break**
 - 🤝 Always down for **collabs and cool opportunities**
 - 📫 Reach me at **anujdhole17@gmail.com**
-- 🌐 Portfolio: **anuj.is-a.dev**
+- 🌐 Portfolio: **https://anuj.is-a.dev**
 - ⚡ Fun fact: **I can center a div in CSS on the first try**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +24,7 @@ I craft full-stack web apps and care about building things that actually work in
   <a href="https://anuj.is-a.dev" target="_blank">
     <img
       align="center"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+      src="https://img.freepik.com/premium-vector/letter-logo-business-icon-design_487414-13.jpg"
       alt="portfolio"
       height="30"
       width="40"
